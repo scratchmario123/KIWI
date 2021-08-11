@@ -1,1 +1,1 @@
-Worker: java src/main/java/BOT/Main
+Worker: java target/src/main/java/BOT/Main.java
