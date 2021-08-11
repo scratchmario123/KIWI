@@ -1,11 +1,10 @@
-package Games;
+package BOT.Games;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class BlackJack extends ListenerAdapter implements Runnable {

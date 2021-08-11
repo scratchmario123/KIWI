@@ -1,3 +1,5 @@
+package BOT;
+
 public class PingPong {
 
     public String getPing(long time) {

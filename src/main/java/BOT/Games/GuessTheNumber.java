@@ -1,4 +1,4 @@
-package Games;
+package BOT.Games;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.guild.GuildMessageReceivedEvent;
