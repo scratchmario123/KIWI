@@ -1,1 +1,1 @@
-Worker: Main.java
+Worker: java -cp Main.java
