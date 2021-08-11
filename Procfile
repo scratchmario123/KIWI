@@ -1,1 +1,1 @@
-Worker: java Main.java
+Worker: java KIWI/src/main/java/Main.java
